@@ -1,2 +1,2 @@
-new readme
+/Users/lakshyanegi/Learning/git-demo
 /Users/lakshyanegi/Learning/git-demo
